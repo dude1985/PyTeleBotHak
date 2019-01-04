@@ -4,7 +4,7 @@ from telebot import types
 import time
 import os
 
-TELEGRAM_TOKEN = '720633788:AAHDpsGunfmCy5gzMSp40zgwoThIdK0c-LY'
+TELEGRAM_TOKEN = ''
 path2Rootdir = 'C:\\Users\\S2\\Google Диск\\bot_data\\'
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN,threaded=False)
